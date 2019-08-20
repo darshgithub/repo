@@ -1,0 +1,13 @@
+html, body
+{
+  background-color: rgb(255, 255, 255);
+  font-family: Circular, Helvetica, Arial, sans-serif;
+  height: 86.5%;
+}
+
+.form-control
+{
+  border-radius: 500px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+}

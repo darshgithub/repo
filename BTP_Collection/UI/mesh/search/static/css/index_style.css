@@ -1,0 +1,101 @@
+.jumbotron
+{
+ background-color: rgb(0, 0, 0, 0);
+ text-align: center;
+}
+
+h1
+{
+  color: red;
+  font-family: Caveat, cursive;
+  font-size: 5em;
+  padding-bottom: 0.09em;
+}
+
+.btn-green
+{
+  background-color: rgb(29, 185, 84);
+  color: rgb(255, 255, 255);
+  border-radius: 500px;
+  border-style: solid;
+  border-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: 700;
+  height: 40px;
+  width: 150px;
+  display: inline-block;
+  letter-spacing: 2px;
+  line-height: 16px;
+  margin-bottom: 0px;
+  margin-top: 0.09em;
+  padding-top: 10px;
+  transition-duration: 0.3s;
+}
+
+.btn-green:hover
+{
+  background-color: rgb(0, 245, 104);
+}
+
+.container-footer
+{
+  padding-top: 30px;
+  padding-bottom: 44px;
+}
+
+.footer
+{
+  display: flex;
+}
+
+.footer-default
+{
+  background: rgb(0, 0, 0);
+}
+
+.nav-title
+{
+  color: rgb(123, 126, 128);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+a
+{
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 400;
+  padding: .1875em 0;
+  position: relative;
+  margin-bottom: .75em;
+  display: inline-block;
+}
+
+a:hover
+{
+  color: rgb(0, 194, 82);
+  text-decoration: none;
+}
+
+ul
+{
+  padding-inline-start: 40px;
+  margin-top: 0;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-left: 2.5em;
+  display: block;
+}
+
+li
+{
+  list-style: none;
+}
